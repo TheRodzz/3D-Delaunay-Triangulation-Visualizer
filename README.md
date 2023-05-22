@@ -39,9 +39,7 @@ To use this code, follow the steps below:
    python alpha.py
 4. The code will generate a 3D plot of the Delaunay triangulation and display it. The highlighted simplices, whose circumradius is less than or equal to the specified alpha value, will be shown in the plot.
 
-5. Adjust the plot as needed using the interactive navigation tools provided by Matplotlib.
-
-6. Close the plot window to exit the program.
+5. Close the plot window to exit the program.
 
 Feel free to explore the code and experiment with different values of alpha and the number of points to visualize various alpha-shapes.
 
