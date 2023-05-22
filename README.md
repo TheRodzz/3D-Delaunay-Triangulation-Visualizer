@@ -36,7 +36,7 @@ To use this code, follow the steps below:
 3. Run the code.
 
    ```bash
-   python filename.py
+   python alpha.py
 4. The code will generate a 3D plot of the Delaunay triangulation and display it. The highlighted simplices, whose circumradius is less than or equal to the specified alpha value, will be shown in the plot.
 
 5. Adjust the plot as needed using the interactive navigation tools provided by Matplotlib.
@@ -56,6 +56,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgments
 
-- The code for the Delaunay triangulation and alpha-shape computation is based on [Three-Dimensional Alpha Shapes by HERBERT EDELSBRUNNER and ERNST P. MUCKE (https://www.cs.jhu.edu/~misha/Fall05/Papers/edelsbrunner94.pdf)
+- The code for the Delaunay triangulation and alpha-shape computation is based on [Three-Dimensional Alpha Shapes by HERBERT EDELSBRUNNER and ERNST P. MUCKE](https://www.cs.jhu.edu/~misha/Fall05/Papers/edelsbrunner94.pdf)
 
 
