@@ -46,7 +46,7 @@ To use this code, follow the steps below:
 Feel free to explore the code and experiment with different values of alpha and the number of points to visualize various alpha-shapes.
 
 ## Installation (With slider to change alpha value)
-Refer to the [Readme with Slider](3D-Delaunay-Triangulation-Visualizer/blob/main/Readme%20with%20Slider.pdf) file for steps on how to run the alpha-with-slider.py code.
+Refer to the [Readme with Slider](https://github.com/TheRodzz/3D-Delaunay-Triangulation-Visualizer/blob/main/Readme%20with%20Slider.pdf) file for steps on how to run the alpha-with-slider.py code.
    
 
 
